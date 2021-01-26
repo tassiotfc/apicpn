@@ -1,18 +1,18 @@
 <h1 align="center">
-Sistema de Apoio ao Uso do Modelo de Referência para Sistemas de Bomba de Infusão de Insulina (SisBII)
+API para simulação de modelo de rede de Petri colorida 
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tassiotfc/sisbii">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tassiotfc/apicpn">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tassiotfc/sisbii">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tassiotfc/apicpn">
 
   <a href="https://github.com/tassiotfc/sisbii/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tassiotfc/sisbii">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tassiotfc/apicpn">
   </a>
 
   <a href="https://github.com/tassiotfc/sisbii/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/tassiotfc/sisbii">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/tassiotfc/apicpn">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -35,7 +35,7 @@ Tecnologias usadas no curso:
 
 ## 💻 Projeto
 
-O SisBII é um sistema para manipulação de um modelo de referência para sistemas de bomba de infusão de insulina.
+A APICPN provê serviços para a simulação de redes de Petri coloridas.
 
 ## :memo: Licença
 
