@@ -28,7 +28,7 @@ APICPN
 
 ## :rocket: Tecnologias
 
-Tecnologias usadas no curso:
+Tecnologias usadas:
 
 - [Java](https://www.java.com/pt_BR/)
 - [Spring](https://spring.io/)
