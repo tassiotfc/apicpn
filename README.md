@@ -1,5 +1,5 @@
 <h1 align="center">
-API para simulação de modelo de rede de Petri colorida 
+APICPN
 </h1>
 
 <p align="center">
@@ -35,7 +35,7 @@ Tecnologias usadas no curso:
 
 ## 💻 Projeto
 
-A APICPN provê serviços para a simulação de redes de Petri coloridas.
+A APICPN provê serviços para a simulação de redes de Petri colorida.
 
 ## :memo: Licença
 
